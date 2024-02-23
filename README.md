@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm My name is Wojtek</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<h1 align="center">Hi there!👋</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="left">My name is Wojtek</h3>
+<h3 align="left">I am Applied Informatics student</h3>
+<h3 align="left">I am a passionate backend developer from Poland</h3>
+
 
 - 🌱 I’m currently learning **Python and Django**
 
 - 📫 How to reach me **wojtek.murszewski@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
