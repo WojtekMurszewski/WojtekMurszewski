@@ -5,7 +5,7 @@
 <h3 align="left">I am a passionate backend developer from Poland</h3>
 
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python, Pandas and Django**
 
 - 📫 How to reach me **wojtek.murszewski@gmail.com**
 
